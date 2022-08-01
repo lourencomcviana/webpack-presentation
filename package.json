@@ -1,0 +1,26 @@
+{
+  "name": "web-pack-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "presentation.md",
+  "scripts": {
+    "build": "marp --images png presentation.md -o dist/images/presentation.png --allow-local-files",
+    "build:pptx": "marp --ppt x presentation.md  -o dist/presentation.pptx --allow-local-files",
+    "build:html": "marp  presentation.md -o dist/presentation.html --allow-local-files",
+    "start": "marp --images png presentation.md -o dist/images/presentation.png --watch --allow-local-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lourencomcviana/webpack-presentation"
+  },
+  "author": "Lourenço Viana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lourencomcviana/webpack-presentation/issues"
+  },
+  "homepage": "https://github.com/lourencomcviana/webpack-presentation#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.0.4"
+  }
+  
+}
