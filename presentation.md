@@ -10,9 +10,9 @@ backgroundImage: url('./presentation/background.png')
 ---
 
 # Tutorial WebPack 5
-https://github.com/lourencomcviana/webpack-tutorial
-https://github.com/lourencomcviana/webpack-presentation
-https://github.com/vp-online-courses/webpack-tutorial
+- https://github.com/lourencomcviana/webpack-tutorial
+- https://github.com/lourencomcviana/webpack-presentation
+- https://github.com/vp-online-courses/webpack-tutorial
 
 ---
 # O que é webpack?
@@ -36,4 +36,6 @@ https://github.com/vp-online-courses/webpack-tutorial
 ---
 # Module Federation
 [![](https://mermaid.ink/img/pako:eNp1zzEOwjAMBdCrWJ5AohygAxKlsHWCjTBYxEBEmxQnQULQw3AWLkZABbHg6cv_DfYVt04z5rgXag-wKpWFNNM1tW1FPrBsIMsmUAyqxRwyqM1ZnB_-UbNeRR8fdzFfOHu3Zd9SHe1vNc4mt1Mkqx2I0wQ-pEy1s3yD4qVwhA1LQ0anQ6-vjcJw4IYV5ilqkqNCZbvkYqsp8Fyb4ATzHdWeR0gxuOXFbjEPEvmDSkPp6aZX3RN2CFSp)](https://mermaid.live/edit#pako:eNp1zzEOwjAMBdCrWJ5AohygAxKlsHWCjTBYxEBEmxQnQULQw3AWLkZABbHg6cv_DfYVt04z5rgXag-wKpWFNNM1tW1FPrBsIMsmUAyqxRwyqM1ZnB_-UbNeRR8fdzFfOHu3Zd9SHe1vNc4mt1Mkqx2I0wQ-pEy1s3yD4qVwhA1LQ0anQ6-vjcJw4IYV5ilqkqNCZbvkYqsp8Fyb4ATzHdWeR0gxuOXFbjEPEvmDSkPp6aZX3RN2CFSp)
+
 ---
+# Obrigado!
